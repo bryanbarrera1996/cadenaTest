@@ -1,0 +1,50 @@
+# .NET Core & .NET Framework
+CadenaTest2/**/bin/
+CadenaTest2/**/obj/
+CadenaTest2/**/out/
+
+# Visual Studio
+CadenaTest2/**/.vs/
+CadenaTest2/**/*.suo
+CadenaTest2/**/*.user
+CadenaTest2/**/*.userosscache
+CadenaTest2/**/*.sln.docstates
+
+# Rider & JetBrains
+CadenaTest2/**/.idea/
+CadenaTest2/**/*.sln.iml
+
+# NuGet
+CadenaTest2/**/*.nupkg
+CadenaTest2/**/packages/
+CadenaTest2/**/.nuget/
+CadenaTest2/**/project.lock.json
+
+# ASP.NET
+CadenaTest2/**/appsettings.json
+CadenaTest2/**/appsettings.*.json
+CadenaTest2/**/secret.json
+
+# Entity Framework
+CadenaTest2/**/migrations/
+
+# Logs & Debugging
+CadenaTest2/**/*.log
+CadenaTest2/**/logs/
+CadenaTest2/**/dump/
+
+# Build artifacts
+CadenaTest2/**/publish/
+CadenaTest2/**/*.dll
+CadenaTest2/**/*.exe
+CadenaTest2/**/*.pdb
+CadenaTest2/**/*.so
+CadenaTest2/**/*.dylib
+CadenaTest2/**/*.db
+CadenaTest2/**/*.lock
+
+# Others
+CadenaTest2/**/node_modules/
+CadenaTest2/**/wwwroot/node_modules/
+CadenaTest2/**/.DS_Store
+CadenaTest2/**/Thumbs.db
